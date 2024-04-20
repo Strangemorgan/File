@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709062008 source:c:\users\richcal\documents\c++ projects\file\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
